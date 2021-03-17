@@ -1,10 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
-import {Counter} from './features/counter/Counter';
 import './App.css';
 import {Home} from './features/pages/Home';
 import {About} from "./features/pages/About";
-import {BrowserRouter as Router, Link, Route, Switch} from "react-router-dom";
+import {BrowserRouter as Router, Link, Route} from "react-router-dom";
 import {Root} from "./features/pages/Root";
 
 
